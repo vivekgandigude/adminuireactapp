@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin-left: 5%;
 }
 
 .App-logo {
@@ -24,6 +24,9 @@
   color: white;
 }
 
+.ag-theme-alpine .ag-row-selected {
+  background-color: gray !important
+}
 .App-link {
   color: #61dafb;
 }
